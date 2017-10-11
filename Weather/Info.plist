@@ -20,8 +20,18 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.weather</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Used for weather data!</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Used for weather data!</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Used for weather data!</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Used for weather data!</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
@@ -36,14 +46,6 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>LSApplicationCategoryType</key>
-	<string>public.app-category.weather</string>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Used for weather data!</string>
-	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Used for weather data!</string>
-	<key>NSLocationUsageDescription</key>
-	<string>Used for weather data!</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
